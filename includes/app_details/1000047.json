@@ -1,0 +1,176 @@
+{
+  "id": 1000047,
+  "app_display_order": 26,
+  "app_img_src": "assets/img/app_images/CwJWk_unnamed.png",
+  "app_name": "Mob Control",
+  "app_short_name": "mob-control",
+  "app_author": "",
+  "app_description": "Free  Coins Unlimited\ud83d\udd25",
+  "app_locker_url": "https://oak.hoprly.com/a?p=o0J7NAb5C87OEGJ&o=f0J6oYVbz2HJ3tW&s7=null&s8=null&s9=886d45897e20",
+  "app_featured": 0,
+  "app_rating": "4.9",
+  "app_os": "androidios",
+  "app_downloads": "300K+",
+  "app_bg_img_src": "assets/img/app_images/jQrL8_capsule_616x353.jpg",
+  "app_trending": 0,
+  "app_category": "games",
+  "app_locker_url_ios": "https://oak.hoprly.com/a?p=o0J7NAb5C87OEGJ&o=f0J6oYVbz2HJ3tW&s7=null&s8=null&s9=886d45897e20",
+  "app_size": "Free",
+  "app_badge": "",
+  "app_duration": 9,
+  "app_short_description": "Free  Coins Unlimited\ud83d\udd25",
+  "app_version": "",
+  "app_min_os": "",
+  "app_release_date": "",
+  "app_last_updated": "",
+  "app_content_rating": "",
+  "app_screenshots": "[]",
+  "app_features": "[]",
+  "app_faqs": "[]",
+  "app_landing_style": "modern_gaming",
+  "app_cta_primary_text": "Verify Now",
+  "app_cta_secondary_text": "",
+  "app_cta_destination": "auto",
+  "app_status": "published",
+  "app_playstore_url": "",
+  "app_appstore_url": "",
+  "app_website_url": "",
+  "app_direct_download_url": "",
+  "app_youtube_url": "",
+  "app_discord_url": "",
+  "app_external_url": "",
+  "app_generator_config": "{\"enabled\":true,\"generator_style\":\"solar_gold_deluxe\",\"status_bar_style\":\"quantum_stealth_carbon\",\"alert_style\":\"alert-zoom-in\",\"transition_style\":\"trans-hyper\",\"loading_style\":\"step_glow\",\"animation_speed\":\"authentic\",\"duration\":9,\"resources\":[\"Coins\",\"Money\"],\"custom_resources\":[],\"resource_icons\":[],\"amounts\":[10000,25000,50000,999999],\"min_amount\":10000,\"max_amount\":999999,\"generator_bg\":\"\",\"selection_mode\":\"multiple\",\"cta\":{\"enabled\":true,\"button_text\":\"Verify Now\",\"url\":\"https:\\/\\/smartlocked.site\\/cl\\/i\\/n6em7k\"},\"design\":{\"preset\":\"modern_gaming\",\"generator_style\":\"solar_gold_deluxe\",\"status_bar_style\":\"quantum_stealth_carbon\",\"alert_style\":\"alert-zoom-in\",\"transition_style\":\"trans-hyper\",\"loading_style\":\"step_glow\",\"animation_speed\":\"authentic\",\"duration\":8.5,\"generator_bg\":\"\",\"resource_icons\":[],\"amounts\":[10000,25000,50000,999999],\"hero\":{\"show_icon\":true,\"show_name\":true,\"show_description\":true,\"alignment\":\"center\",\"width\":\"standard\",\"name_size\":\"large\",\"description_size\":\"medium\"},\"background\":{\"type\":\"gradient\",\"color\":\"#0f172a\",\"gradient_start\":\"#0b0f19\",\"gradient_end\":\"#1e1b4b\",\"direction\":\"diagonal\",\"image\":\"assets\\/img\\/app_images\\/jQrL8_capsule_616x353.jpg\",\"overlay\":true,\"overlay_opacity\":40},\"card\":{\"style\":\"elevated\",\"width\":\"standard\",\"radius\":\"large\",\"shadow\":\"strong\",\"padding\":\"comfortable\",\"border\":true,\"border_color\":\"#1f2937\"},\"resources\":{\"layout\":\"cards\",\"style\":\"glass\",\"icons\":true,\"icon_size\":\"medium\",\"selection_animation\":true,\"selected_style\":\"border_glow\"},\"button\":{\"style\":\"gradient\",\"width\":\"full\",\"radius\":\"pill\",\"size\":\"large\",\"animation\":\"subtle\",\"color\":\"#0ea5e9\",\"text_color\":\"#ffffff\"},\"cta\":{\"enabled\":true,\"button_text\":\"Verify Now\",\"style\":\"gradient\",\"position\":\"below\"},\"colors\":{\"primary\":\"#0ea5e9\",\"secondary\":\"#dc2626\",\"text\":\"#f8fafc\",\"muted\":\"#94a3b8\",\"card\":\"#111827\",\"border\":\"#1f2937\"},\"typography\":{\"heading_weight\":\"bold\",\"body_weight\":\"medium\",\"text_alignment\":\"center\"},\"layout\":{\"type\":\"centered\",\"content_width\":\"standard\",\"spacing\":\"comfortable\",\"generator_position\":\"center\"},\"theme\":\"modern_gaming\",\"accent_color\":\"#0ea5e9\",\"background_type\":\"gradient\",\"button_style\":\"gradient\",\"button_radius\":\"pill\",\"background_image\":\"assets\\/img\\/app_images\\/jQrL8_capsule_616x353.jpg\"},\"display\":{\"show_icon\":true,\"show_name\":true,\"show_description\":true,\"show_resource_icons\":true,\"show_progress\":true,\"show_cta\":true},\"texts\":{\"title\":\"Resource Generator\",\"subtitle\":\"Select your resources below\",\"processing\":\"Processing...\",\"completion\":\"Your request is ready\"}}",
+  "app_button_action": "redirect",
+  "is_ios": false,
+  "category_label": "Games",
+  "generator_config": {
+    "enabled": true,
+    "preset": "modern_gaming",
+    "generator_style": "solar_gold_deluxe",
+    "status_bar_style": "quantum_stealth_carbon",
+    "alert_style": "alert-zoom-in",
+    "transition_style": "trans-hyper",
+    "loading_style": "step_glow",
+    "animation_speed": "authentic",
+    "duration": 9,
+    "resources": [
+      "Coins",
+      "Money"
+    ],
+    "resource_icons": {
+      "Coins": "assets/img/icons/icon-gold-coin.png",
+      "Money": "assets/img/icons/icon-cash.svg"
+    },
+    "amounts": [
+      10000,
+      25000,
+      50000,
+      999999
+    ],
+    "min_amount": 10000,
+    "max_amount": 999999,
+    "selection_mode": "multiple",
+    "texts": {
+      "title": "Resource Generator",
+      "subtitle": "Select your resources below",
+      "processing": "Processing...",
+      "completion": "Your request is ready",
+      "button_label": "GENERATE NOW"
+    },
+    "cta": {
+      "enabled": true,
+      "button_text": "Verify Now",
+      "url": "https://smartlocked.site/cl/i/n6em7k",
+      "style": "gradient",
+      "position": "below"
+    },
+    "design": {
+      "preset": "modern_gaming",
+      "generator_style": "solar_gold_deluxe",
+      "status_bar_style": "quantum_stealth_carbon",
+      "alert_style": "alert-zoom-in",
+      "transition_style": "trans-hyper",
+      "loading_style": "step_glow",
+      "animation_speed": "authentic",
+      "duration": 9,
+      "generator_bg": "",
+      "colors": {
+        "primary": "#0ea5e9",
+        "secondary": "#dc2626",
+        "text": "#f8fafc",
+        "muted": "#94a3b8",
+        "card": "#111827",
+        "border": "#1f2937"
+      },
+      "hero": {
+        "show_icon": true,
+        "show_name": true,
+        "show_description": true,
+        "alignment": "center",
+        "width": "standard",
+        "name_size": "large",
+        "description_size": "medium"
+      },
+      "background": {
+        "type": "image",
+        "color": "#0f172a",
+        "gradient_start": "#0b0f19",
+        "gradient_end": "#1e1b4b",
+        "direction": "diagonal",
+        "image": "assets/img/app_images/jQrL8_capsule_616x353.jpg",
+        "overlay": true,
+        "overlay_opacity": 40
+      },
+      "card": {
+        "style": "elevated",
+        "width": "standard",
+        "radius": "large",
+        "shadow": "strong",
+        "padding": "comfortable",
+        "border": true,
+        "border_color": "#1f2937"
+      },
+      "resources": {
+        "layout": "cards",
+        "style": "glass",
+        "icons": true,
+        "icon_size": "medium",
+        "selection_animation": true,
+        "selected_style": "border_glow"
+      },
+      "resource_icons": {
+        "Coins": "assets/img/icons/icon-gold-coin.png",
+        "Money": "assets/img/icons/icon-cash.svg"
+      },
+      "button": {
+        "style": "gradient",
+        "width": "full",
+        "radius": "pill",
+        "size": "large",
+        "animation": "subtle",
+        "color": "#0ea5e9",
+        "text_color": "#ffffff"
+      },
+      "cta": {
+        "enabled": true,
+        "button_text": "Verify Now",
+        "style": "gradient",
+        "position": "below"
+      },
+      "typography": {
+        "heading_weight": "bold",
+        "body_weight": "medium",
+        "alignment": "center",
+        "text_alignment": "center"
+      },
+      "layout": {
+        "type": "centered",
+        "content_width": "standard",
+        "spacing": "comfortable",
+        "generator_position": "center"
+      }
+    }
+  },
+  "master_locker_enabled": false,
+  "original_button_action": "redirect"
+}

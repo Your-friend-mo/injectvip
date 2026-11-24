@@ -1,0 +1,20 @@
+# InjectVIP - Online Apps & Games Store
+> InjectVIP is a verified mobile application distribution platform offering unlocked, cloud-synchronized packages for Android and iOS devices.
+
+## Overview
+InjectVIP enables mobile users to access trending games, short-drama entertainment apps, and mobile utilities via cloud-based injection technology. The platform requires no root access or jailbreak, maintaining full device integrity and privacy.
+
+## Curated Pages
+- [Official Storefront](https://injectvip.pro/): Complete catalog of featured games, trending drama apps, and verified cloud launchers.
+- [DLS 26 Cloud Package](https://injectvip.pro/dls-26.html): Dream League Soccer package with unrestricted team customization.
+- [DramaBox Mobile App](https://injectvip.pro/dramabox.html): High-definition vertical drama series with instant unlocked episodes.
+- [8 Ball Pool Tool](https://injectvip.pro/8-ball-pool.html): Precision multiplayer billiards utility with cloud synchronization.
+- [Security & Architecture Analysis](https://injectvip.pro/injectvip-pro-review.html): Technical assessment of 256-bit SSL encrypted cloud package delivery.
+- [Platform Safety Guide](https://injectvip.pro/is-injectvip-pro-safe.html): Verification protocols, privacy standards, and mobile sandbox safety.
+- [Full XML Sitemap](https://injectvip.pro/sitemap.xml): Machine-readable index of all store categories and individual applications.
+
+## Technical Specifications
+- Supported Platforms: Android 8.0+, iOS 14.0+, iPadOS, Windows & macOS browsers
+- Security Protocol: 256-Bit SSL End-to-End Cloud Tunnel
+- Service Status: 99.8% Verified Server Uptime
+- Contact: support@injectvip.pro
