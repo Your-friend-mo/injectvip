@@ -4,14 +4,22 @@
 ## Overview
 InjectVIP enables mobile users to access trending games, short-drama entertainment apps, and mobile utilities via cloud-based injection technology. The platform requires no root access or jailbreak, maintaining full device integrity and privacy.
 
-## Curated Pages
+## Curated Featured Games & Apps
 - [Official Storefront](https://injectvip.comee.online/): Complete catalog of featured games, trending drama apps, and verified cloud launchers.
-- [DLS 26 Cloud Package](https://injectvip.comee.online/dls-26.html): Dream League Soccer package with unrestricted team customization.
-- [DramaBox Mobile App](https://injectvip.comee.online/dramabox.html): High-definition vertical drama series with instant unlocked episodes.
-- [8 Ball Pool Tool](https://injectvip.comee.online/8-ball-pool.html): Precision multiplayer billiards utility with cloud synchronization.
-- [Security & Architecture Analysis](https://injectvip.comee.online/injectvip-pro-review.html): Technical assessment of 256-bit SSL encrypted cloud package delivery.
-- [Platform Safety Guide](https://injectvip.comee.online/is-injectvip-pro-safe.html): Verification protocols, privacy standards, and mobile sandbox safety.
-- [Full XML Sitemap](https://injectvip.comee.online/sitemap.xml): Machine-readable index of all store categories and individual applications.
+- [Roblox Cloud Package](https://injectvip.comee.online/roblox): Roblox package with unrestricted item and balance access.
+- [Brawl Stars Package](https://injectvip.comee.online/brawl-stars): Brawl Stars gems and resource deployment.
+- [Free Fire Diamond Tool](https://injectvip.comee.online/free-fire): Free Fire synchronization for battle royale players.
+- [PUBG Mobile UC Sync](https://injectvip.comee.online/pubg-mobile): Verified Unknown Cash utility for PUBG Mobile.
+- [Clash Royale Tool](https://injectvip.comee.online/clash-royale): Gems and gold synchronization for Clash Royale.
+- [Clash of Clans Tool](https://injectvip.comee.online/clash-of-clans): Village builder resources and instant sync.
+- [DLS 26 Cloud Package](https://injectvip.comee.online/dls-26): Dream League Soccer package with team customization.
+- [DramaBox Mobile App](https://injectvip.comee.online/dramabox): High-definition vertical drama series with unlocked episodes.
+- [8 Ball Pool Tool](https://injectvip.comee.online/8-ball-pool): Precision multiplayer billiards utility with cloud sync.
+- [Best Mobile Games 2026](https://injectvip.comee.online/best-mobile-games): Comprehensive ranking and review of top mobile games.
+- [Free Game Passes Guide](https://injectvip.comee.online/free-game-passes): Verification and unlocking protocols for season passes.
+- [Security & Architecture Analysis](https://injectvip.comee.online/injectvip-pro-review): Technical assessment of 256-bit SSL encrypted cloud package delivery.
+- [Platform Safety Guide](https://injectvip.comee.online/is-injectvip-pro-safe): Verification protocols, privacy standards, and mobile sandbox safety.
+- [Full XML Sitemap](https://injectvip.comee.online/sitemap.xml): Machine-readable index of all 63 store categories and individual applications.
 
 ## Technical Specifications
 - Supported Platforms: Android 8.0+, iOS 14.0+, iPadOS, Windows & macOS browsers
